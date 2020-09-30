@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+    text-size-adjust: 50px;
+    color: rgb(60, 116, 180);
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p
+{
+    text-align: center;
+    color: yellow;
+    font-size: unset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    background-color: tomato;
+    
+    
+}
